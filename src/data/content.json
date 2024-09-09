@@ -1,0 +1,101 @@
+{
+	"navlinks": [
+		{
+			"link":"Experience",
+			"target":"experience"
+		},
+		{
+			"link":"Projects",
+			"target":"projects"
+		},
+		{
+			"link":"Resume",
+			"target":"resume"
+		},
+		{
+			"link":"Contact",
+			"target":"contact"
+		}
+	],
+	"projects": [
+		{
+			"title": "PianAI",
+			"description": "Learning the piano with MIDI feedback and OpenCV (McMaster AI Society).",
+			"link": "https://github.com/McMasterAI/pianAI",
+			"colour":"#0039A6",
+			"textcolour":"white",
+			"stack":"Python, OpenCV, MediaPipe, Streamlit"
+		},
+		{
+			"title": "Praxi",
+			"description": "Improving digital language learning with AI and live conversation.",
+			"link": "https://github.com/colinchambachan/praxi",
+			"colour":"#FCCC0A",
+			"textcolour":"black",
+			"stack":"Python, Django, HTML, TailwindCSS, Web Sockets"
+	  	},
+		{
+			"title": "Maze Solver",
+			"description": "Solving mazes in Java with graph algorithms for software design practice.",
+			"link": "https://github.com/2AA4-W24/a3-maze-runner-take-two-ethanwalsh16",
+			"colour":"#00933C",
+			"textcolour":"white",
+			"stack": "Java, JUnit, SonarQube"
+		},
+		{
+			"title": "Personal Portfolio",
+			"description": "Showcasing projects and experience.",
+			"link": "https://github.com/ethanwalsh16/portfolio",
+			"colour":"#EE352E",
+			"textcolour":"white",
+			"stack":"TypeScript, React.JS, TailwindCSS"
+	  	}
+	],
+	"experiences": [
+		{
+			"title": "Data Analytics Intern",
+			"company": "Bruce Power",
+			"oneliner": "Created apps and automations to provide key insights on fifty thousand work orders and requests.",
+			"link": "https://www.brucepower.com",
+			"colour":"#0039A6",
+			"textcolour":"white",
+			"stack":"SQL, Databricks, Power BI, Power Automate"
+		},
+		{
+			"title": "Project Lead",
+			"company": "McMaster Artificial Intelligence Society",
+			"oneliner": "Lead the development of an OpenCV project to teach the fundamentals of piano.",
+			"link": "https://www.linkedin.com/company/mcmasterai/",
+			"colour":"#0039A6",
+			"textcolour":"white",
+			"stack":"Python, OpenCV, MediaPipe, Streamlit"
+		},
+		{
+			"title": "Software Engineering Intern",
+			"company": "Fermi Solutions",
+			"oneliner": "Developed a full-stack application for storage management in nuclear energy facilities.",
+			"link": "https://www.fermisolutions.com/",
+			"colour":"#FCCC0A",
+			"textcolour":"black",
+			"stack":"React.JS, TypeScript, FastAPI, MongoDB, Node.JS"
+		},
+		{
+			"title": "Program Developer",
+			"company": "Nuclear Innovation Institute",
+			"oneliner": "Spearheaded the creation of a Python learning platform for thousands of students.",
+			"link": "https://www.nuclearinnovationinstitute.ca/",
+			"colour":"#EE352E",
+			"textcolour":"white",
+			"stack":"Python, HTML"
+		},
+	  	{
+			"title": "Computer Science TA",
+			"company": "Saugeen District Senior School",
+			"oneliner": "Presenting games and program shells, plus meeting with students to ensure understanding.",
+			"link": "https://www.bwdsb.on.ca/",
+			"colour":"#00933C",
+			"textcolour":"white",
+			"stack":"Python"
+	  	}
+	]
+}
