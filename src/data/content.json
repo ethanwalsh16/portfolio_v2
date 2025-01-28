@@ -35,6 +35,14 @@
 			"stack":"Python, Django, HTML, TailwindCSS, Web Sockets"
 	  	},
 		{
+			"title": "Bricked",
+			"description": "Blocking unproductive sites and learning Chrome extension development.",
+			"link":"https://github.com/ethanwalsh16/extension-blocker",
+			"colour":"#FCCC0A",
+			"textcolour":"black",
+			"stack":"JavaScript, HTML, CSS"
+		},
+		{
 			"title": "Maze Solver",
 			"description": "Solving mazes in Java with graph algorithms for software design practice.",
 			"link": "https://github.com/2AA4-W24/a3-maze-runner-take-two-ethanwalsh16",
@@ -45,7 +53,7 @@
 		{
 			"title": "Personal Portfolio",
 			"description": "Showcasing projects and experience.",
-			"link": "https://github.com/ethanwalsh16/portfolio",
+			"link": "https://ethanwalsh.tech",
 			"colour":"#EE352E",
 			"textcolour":"white",
 			"stack":"TypeScript, React.JS, TailwindCSS"
