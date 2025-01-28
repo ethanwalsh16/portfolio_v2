@@ -1,9 +1,70 @@
 import "../index.css";
+import Footer from "../components/Footer";
+import Contact from "../components/Contact";
+import { useNavigate } from 'react-router-dom';
 
 function App() {
 
+	const navigate = useNavigate();
+
+	const handleNavigate = (path: string) => {
+		navigate(path);
+	};
+
 	return (
-		<div className="space-y-4 md:ml-4 ml-1 py-3">
+		<>
+			<div className="md:pt-16 pt-2 md:ml-16 ml-2">
+      		<div className="flex md:space-x-16 space-x-8">
+        	<h1 className="md:pt-4 pt-1 font-serif text-slate-900 md:text-2xl text-md md:pb-8 pb-4">
+          ethanwalsh.tech
+        </h1>
+        <nav className="md:ml-4 ml-1 md:pt-5 pt-1 font-serif text-slate-900 text-sm md:pb-8 pb-4">
+          <ul className="flex space-x-4">
+            <li>
+              <button
+                className="hover:underline"
+                onClick={() => handleNavigate('/')}
+              >
+                Home
+              </button>
+            </li>
+            <li>
+              <button
+                className="hover:underline"
+                onClick={() => handleNavigate('/work')}
+              >
+                Work
+              </button>
+            </li>
+            <li>
+              <button
+                className="hover:underline"
+                onClick={() => handleNavigate('/projects')}
+              >
+                Projects
+              </button>
+            </li>
+            <li>
+              <button
+                className="hover:underline"
+                onClick={() => handleNavigate('/tech')}
+              >
+                Tech
+              </button>
+            </li>
+            <li>
+              <button
+                className="hover:underline"
+                onClick={() => handleNavigate('/media')}
+              >
+                Media
+              </button>
+            </li>
+          </ul>
+        </nav>
+      </div>
+      <main className="">
+	  <div className="space-y-4 md:ml-4 ml-1 py-3">
 			<p className="font-serif text-slate-900 text-2xl">Seeing:</p>
 
 				<p className="font-serif text-slate-900 ml-2">Art of Kazuo Nakamura</p>
@@ -46,8 +107,15 @@ function App() {
 
 					<p className="font-serif text-slate-900 ml-4 text-sm">One of the greatest musicians in the field of minimalism, Reich speaks with various other musical giants. A great deal of important knowledge and history on 20th century music.</p>
 		</div>
+      </main>
+      <div className="py-8"></div>
+      <Contact />
+      	<Footer />
+    	</div>
+	</>
   )
 }
 
 export default App;
+
 
