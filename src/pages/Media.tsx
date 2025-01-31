@@ -106,7 +106,11 @@ function App() {
 				<p className="font-serif text-slate-900 ml-2">Conversations by Steve Reich</p>
 
 					<p className="font-serif text-slate-900 ml-4 text-sm">One of the greatest musicians in the field of minimalism, Reich speaks with various other musical giants. A great deal of important knowledge and history on 20th century music.</p>
-		</div>
+				
+				<p className="font-serif text-slate-900 ml-2">Range by David Epstein</p>
+
+					<p className="font-serif text-slate-900 ml-4 text-sm">The extended version of this book's title explains it well - 'why generalists triumph in a specialized world'</p>
+		</div>	
       </main>
       <div className="py-8"></div>
       <Contact />
