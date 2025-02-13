@@ -13,12 +13,12 @@ function App() {
 
 	return (
 		<>
-			<div className="md:pt-16 pt-2 md:ml-16 ml-2">
-      		<div className="flex md:space-x-16 space-x-8">
+			<div className="md:pt-16 pt-2 md:ml-16 ml-3 mr-2">
+      		<div className="flex md:space-x-16 sm:space-x-6 space-x-4">
         	<h1 className="md:pt-4 pt-1 font-serif text-slate-900 md:text-2xl text-md md:pb-8 pb-4">
           ethanwalsh.ca
         </h1>
-        <nav className="md:ml-4 ml-1 md:pt-5 pt-1 font-serif text-slate-900 text-sm md:pb-8 pb-4">
+        <nav className="md:ml-4 ml-1 md:pt-6 pt-[0.35rem] font-serif text-slate-900 text-sm md:pb-8 pb-4 mr-2">
           <ul className="flex space-x-4">
             <li>
               <button
@@ -54,7 +54,7 @@ function App() {
             </li>
             <li>
               <button
-                className="hover:underline"
+                className="hover:underline pr-2"
                 onClick={() => handleNavigate('/media')}
               >
                 Media
