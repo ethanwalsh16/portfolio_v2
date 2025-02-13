@@ -20,7 +20,7 @@ function App() {
           ethanwalsh.ca
         </h1>
         <nav className="md:ml-4 ml-1 md:pt-6 pt-[0.35rem] font-serif text-slate-900 text-sm md:pb-8 pb-4 mr-2">
-          <ul className="flex space-x-4">
+          <ul className="flex md:space-x-4 space-x-[0.5rem]">
             <li>
               <button
                 className="hover:underline"
