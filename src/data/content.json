@@ -53,7 +53,7 @@
 		{
 			"title": "Personal Portfolio",
 			"description": "Showcasing projects and experience.",
-			"link": "https://ethanwalsh.tech",
+			"link": "https://ethanwalsh.ca",
 			"colour":"#EE352E",
 			"textcolour":"white",
 			"stack":"TypeScript, React.JS, TailwindCSS"

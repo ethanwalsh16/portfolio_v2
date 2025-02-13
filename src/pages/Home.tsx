@@ -17,7 +17,7 @@ function App() {
 			<div className="md:pt-16 pt-2 md:ml-16 ml-2">
       		<div className="flex md:space-x-16 space-x-8">
         	<h1 className="md:pt-4 pt-1 font-serif text-slate-900 md:text-2xl text-md md:pb-8 pb-4">
-          ethanwalsh.tech
+          ethanwalsh.ca
         </h1>
         <nav className="md:ml-4 ml-1 md:pt-5 pt-1 font-serif text-slate-900 text-sm md:pb-8 pb-4">
           <ul className="flex space-x-4">
