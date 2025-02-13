@@ -40,11 +40,11 @@ function App() {
         </div>
         {/* Mobile Menu */}
         {menuOpen && (
-            <div className="sm:hidden absolute top-16 right-0 w-[20%] bg-[#fefbf1] shadow-md p-4">
+            <div className="sm:hidden absolute top-16 right-0 w-[50%] bg-[#fefbf1] shadow-md p-4">
                 <ul className="flex flex-col space-y-2">
                     {['/', '/work', '/projects', '/tech', '/media'].map((path, index) => (
                         <li key={index}>
-                            <button className="w-full font-serif text-right py-2 hover:underline mr-2" onClick={() => handleNavigate(path)}>
+                            <button className="w-full font-serif text-left py-2 hover:underline mr-2" onClick={() => handleNavigate(path)}>
                                 {path.replace("/", "") || "home"}
                             </button>
                         </li>
