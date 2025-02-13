@@ -11,3 +11,8 @@ html, body {
 * {
     outline: 1px solid red;
   }
+
+nav {
+    overflow: visible;
+    white-space: nowrap;
+}
