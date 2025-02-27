@@ -21,7 +21,7 @@
 		{
 			"title": "PianAI",
 			"description": "Learning the piano with MIDI feedback and OpenCV (McMaster AI Society).",
-			"link": "https://github.com/McMasterAI/pianAI",
+			"link": "https://cto.mcmaster.ca/mcmaster-students-leverage-ai-to-bring-music-lessons-into-the-future/",
 			"colour":"#0039A6",
 			"textcolour":"white",
 			"stack":"Python, OpenCV, MediaPipe, Streamlit"
