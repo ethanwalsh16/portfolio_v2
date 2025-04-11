@@ -43,11 +43,11 @@
 			"stack":"JavaScript, HTML, CSS"
 		},
 		{
-			"title": "Vibraphone Coding"
-			"description": "Parsing vibraphone notes into code."
+			"title": "Vibraphone Coding",
+			"description": "Parsing vibraphone notes into code.",
 			"link":"https://www.linkedin.com/posts/activity-7315723929145286656-p2IJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnYHGUBm5DI1ORaM8e8JsPq-IY672kfNio",
 			"colour":"#FFFFFF",
-			"textcolour":"black"
+			"textcolour":"black",
 			"stack":"Python, Librosa"
 		},
 		{
