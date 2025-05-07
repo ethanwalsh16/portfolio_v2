@@ -27,6 +27,14 @@
 			"stack":"Python, OpenCV, MediaPipe, Streamlit"
 		},
 		{
+			"title": "Vibraphone Coding",
+			"description": "Parsing vibraphone notes into code.",
+			"link":"https://www.linkedin.com/posts/activity-7315723929145286656-p2IJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnYHGUBm5DI1ORaM8e8JsPq-IY672kfNio",
+			"colour":"#FFFFFF",
+			"textcolour":"black",
+			"stack":"Python, Librosa"
+		},
+		{
 			"title": "Praxi",
 			"description": "Improving digital language learning with AI and live conversation.",
 			"link": "https://github.com/colinchambachan/praxi",
@@ -41,14 +49,6 @@
 			"colour":"#FCCC0A",
 			"textcolour":"black",
 			"stack":"JavaScript, HTML, CSS"
-		},
-		{
-			"title": "Vibraphone Coding",
-			"description": "Parsing vibraphone notes into code.",
-			"link":"https://www.linkedin.com/posts/activity-7315723929145286656-p2IJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnYHGUBm5DI1ORaM8e8JsPq-IY672kfNio",
-			"colour":"#FFFFFF",
-			"textcolour":"black",
-			"stack":"Python, Librosa"
 		},
 		{
 			"title": "Maze Solver",
@@ -75,7 +75,7 @@
 			"link": "https://jobs.rbc.com/ca/en/amplify",
 			"colour":"#000000",
 			"textcolour":"white",
-			"stack":""
+			"stack":"TBD"
 		},
 		{
 			"title": "Data Analytics Intern",
@@ -89,7 +89,7 @@
 		{
 			"title": "Project Lead",
 			"company": "McMaster Artificial Intelligence Society",
-			"oneliner": "Lead the development of an OpenCV project to teach the fundamentals of piano.",
+			"oneliner": "Led the development of an OpenCV project to teach the fundamentals of piano.",
 			"link": "https://www.linkedin.com/company/mcmasterai/",
 			"colour":"#0039A6",
 			"textcolour":"white",
