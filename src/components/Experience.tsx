@@ -8,7 +8,7 @@ interface ExperienceProps {
 	stack: string;
 }
 
-const Experience: React.FC<ExperienceProps> = ({ title, company, oneliner, stack }) => {
+const Experience: React.FC<ExperienceProps> = ({ title, company, oneliner, stack, link }) => {
 
 	return (
 		<div className="md:ml-4 ml-1">
