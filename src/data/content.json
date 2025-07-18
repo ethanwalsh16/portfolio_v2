@@ -43,20 +43,12 @@
 			"stack":"Python, Django, HTML, TailwindCSS, Web Sockets"
 	  	},
 		{
-			"title": "Bricked",
-			"description": "Blocking unproductive sites and learning Chrome extension development.",
-			"link":"https://github.com/ethanwalsh16/extension-blocker",
+			"title": "PGA Preditor",
+			"description": "Data Science project to predict winners on the PGA Tour",
+			"link":"https://github.com/ethanwalsh16/pga-predictor",
 			"colour":"#FCCC0A",
 			"textcolour":"black",
-			"stack":"JavaScript, HTML, CSS"
-		},
-		{
-			"title": "Maze Solver",
-			"description": "Solving mazes in Java with graph algorithms for software design practice.",
-			"link": "https://github.com/2AA4-W24/a3-maze-runner-take-two-ethanwalsh16",
-			"colour":"#00933C",
-			"textcolour":"white",
-			"stack": "Java, JUnit, SonarQube"
+			"stack":"Python, Jupyter Notebook"
 		},
 		{
 			"title": "Personal Portfolio",
@@ -71,14 +63,14 @@
 		{
 			"title": "Software Development Intern",
 			"company": "Royal Bank of Canada",
-			"oneliner": "Developer in RBC's Amplify Program.",
+			"oneliner": "Solving a new problem in a team of 4 students as a part of RBC's Amplify Program.",
 			"link": "https://jobs.rbc.com/ca/en/amplify",
 			"colour":"#000000",
 			"textcolour":"white",
-			"stack":"TBD"
+			"stack":"Spring Boot, Java, Next.JS, TypeScript, PostgreSQL"
 		},
 		{
-			"title": "Data Analytics Intern",
+			"title": "Data Analytics Intern",e
 			"company": "Bruce Power",
 			"oneliner": "Created apps and automations to provide key insights on fifty thousand work orders and requests.",
 			"link": "https://www.brucepower.com",
