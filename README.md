@@ -1,3 +1,3 @@
 # Portfolio
 
-Updated version of the portfolio, intended to focus on a more minimal approach. Currently in the works!
+Minimal portfolio featuring work experience, projects, and media. Built with React.JS and TypeScript.
