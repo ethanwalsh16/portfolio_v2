@@ -43,7 +43,7 @@
 			"stack":"Python, Django, HTML, TailwindCSS, Web Sockets"
 	  	},
 		{
-			"title": "PGA Preditor",
+			"title": "PGA Predictor",
 			"description": "Data Science project to predict winners on the PGA Tour.",
 			"link":"https://github.com/ethanwalsh16/pga-predictor",
 			"colour":"#FCCC0A",
