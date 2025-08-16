@@ -20,7 +20,7 @@
 	"projects": [
 		{
 			"title": "PianAI",
-			"description": "Learning the piano with MIDI feedback and OpenCV (McMaster AI Society).",
+			"description": "Creating a new way to learn the piano with computer vision and audio feedback (McMaster AI Society).",
 			"link": "https://cto.mcmaster.ca/mcmaster-students-leverage-ai-to-bring-music-lessons-into-the-future/",
 			"colour":"#0039A6",
 			"textcolour":"white",
@@ -36,7 +36,7 @@
 		},
 		{
 			"title": "Praxi",
-			"description": "Improving digital language learning with AI and live conversation.",
+			"description": "Improving online language learning tools using AI and live conversation.",
 			"link": "https://github.com/colinchambachan/praxi",
 			"colour":"#FCCC0A",
 			"textcolour":"black",
@@ -44,7 +44,7 @@
 	  	},
 		{
 			"title": "PGA Preditor",
-			"description": "Data Science project to predict winners on the PGA Tour",
+			"description": "Data Science project to predict winners on the PGA Tour.",
 			"link":"https://github.com/ethanwalsh16/pga-predictor",
 			"colour":"#FCCC0A",
 			"textcolour":"black",
@@ -61,16 +61,24 @@
 	],
 	"experiences": [
 		{
-			"title": "Software Development Intern",
+			"title": "Software Development Intern - Cloud (Fall 2025)",
 			"company": "Royal Bank of Canada",
-			"oneliner": "Solving a new problem in a team of 4 students as a part of RBC's Amplify Program.",
+			"onliner": "Incoming intern on the real-time payments cloud team.",
+			"colour":"#000000",
+			"textcolour":"white",
+			"stack":""
+		}	
+		{
+			"title": "Software Development Intern (Summer 2025)",
+			"company": "Royal Bank of Canada",
+			"oneliner": "Developed a patent pending software product that won the technical distinction award as part of a 4-student team in RBC's Amplify program, where interns take on new challenges in the bank.",
 			"link": "https://jobs.rbc.com/ca/en/amplify",
 			"colour":"#000000",
 			"textcolour":"white",
 			"stack":"Spring Boot, Java, Next.JS, TypeScript, PostgreSQL"
 		},
 		{
-			"title": "Data Analytics Intern",
+			"title": "Data Analytics Intern (Summer 2024)",
 			"company": "Bruce Power",
 			"oneliner": "Created apps and automations to provide key insights on fifty thousand work orders and requests.",
 			"link": "https://www.brucepower.com",
@@ -79,7 +87,7 @@
 			"stack":"SQL, Databricks, Power BI, Power Automate"
 		},
 		{
-			"title": "Project Lead",
+			"title": "Project Lead (2023-2024)",
 			"company": "McMaster Artificial Intelligence Society",
 			"oneliner": "Led the development of an OpenCV project to teach the fundamentals of piano.",
 			"link": "https://www.linkedin.com/company/mcmasterai/",
@@ -88,31 +96,13 @@
 			"stack":"Python, OpenCV, MediaPipe, Streamlit"
 		},
 		{
-			"title": "Software Engineering Intern",
+			"title": "Software Engineering Intern (Summer 2023)",
 			"company": "Fermi Solutions",
 			"oneliner": "Developed a full-stack application for storage management in nuclear energy facilities.",
 			"link": "https://www.fermisolutions.com/",
 			"colour":"#FCCC0A",
 			"textcolour":"black",
 			"stack":"React.JS, TypeScript, FastAPI, MongoDB, Node.JS"
-		},
-		{
-			"title": "Program Developer",
-			"company": "Nuclear Innovation Institute",
-			"oneliner": "Spearheaded the creation of a Python learning platform for thousands of students.",
-			"link": "https://www.nuclearinnovationinstitute.ca/",
-			"colour":"#EE352E",
-			"textcolour":"white",
-			"stack":"Python, HTML"
-		},
-	  	{
-			"title": "Computer Science TA",
-			"company": "Saugeen District Senior School",
-			"oneliner": "Presenting games and program shells, plus meeting with students to ensure understanding.",
-			"link": "https://www.bwdsb.on.ca/",
-			"colour":"#00933C",
-			"textcolour":"white",
-			"stack":"Python"
-	  	}
+		}
 	]
 }
