@@ -61,16 +61,16 @@
 	],
 	"experiences": [
 		{
-			"title": "Software Development Intern - Cloud (Fall 2025)",
-			"company": "Royal Bank of Canada",
-			"onliner": "Incoming intern on the real-time payments cloud team.",
+			"title": "Software Development Intern",
+			"company": "Royal Bank of Canada - (Fall 2025)",
+			"oneliner": "Incoming intern on the real-time payments cloud team.",
 			"colour":"#000000",
 			"textcolour":"white",
-			"stack":""
+			"stack":"TBD"
 		},	
 		{
-			"title": "Software Development Intern (Summer 2025)",
-			"company": "Royal Bank of Canada",
+			"title": "Software Development Intern",
+			"company": "Royal Bank of Canada - (Summer 2025)",
 			"oneliner": "Developed a patent pending software product that won the technical distinction award as part of a 4-student team in RBC's Amplify program, where interns take on new challenges in the bank.",
 			"link": "https://jobs.rbc.com/ca/en/amplify",
 			"colour":"#000000",
@@ -78,8 +78,8 @@
 			"stack":"Spring Boot, Java, Next.JS, TypeScript, PostgreSQL"
 		},
 		{
-			"title": "Data Analytics Intern (Summer 2024)",
-			"company": "Bruce Power",
+			"title": "Data Analytics Intern",
+			"company": "Bruce Power - (Summer 2024)",
 			"oneliner": "Created apps and automations to provide key insights on fifty thousand work orders and requests.",
 			"link": "https://www.brucepower.com",
 			"colour":"#0039A6",
@@ -87,8 +87,8 @@
 			"stack":"SQL, Databricks, Power BI, Power Automate"
 		},
 		{
-			"title": "Project Lead (2023-2024)",
-			"company": "McMaster Artificial Intelligence Society",
+			"title": "Project Lead",
+			"company": "McMaster Artificial Intelligence Society - (2023-2024)",
 			"oneliner": "Led the development of an OpenCV project to teach the fundamentals of piano.",
 			"link": "https://www.linkedin.com/company/mcmasterai/",
 			"colour":"#0039A6",
@@ -96,8 +96,8 @@
 			"stack":"Python, OpenCV, MediaPipe, Streamlit"
 		},
 		{
-			"title": "Software Engineering Intern (Summer 2023)",
-			"company": "Fermi Solutions",
+			"title": "Software Engineering Intern",
+			"company": "Fermi Solutions - (Summer 2023)",
 			"oneliner": "Developed a full-stack application for storage management in nuclear energy facilities.",
 			"link": "https://www.fermisolutions.com/",
 			"colour":"#FCCC0A",
