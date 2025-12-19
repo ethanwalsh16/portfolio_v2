@@ -19,90 +19,78 @@
 	],
 	"projects": [
 		{
+			"title": "toSCAN (in-progress)",
+			"description": "Built an automated privacy policy analyzer using natural language processing and spaCy to provide a scorecard on company data protection practices. Assesses text for data collection, tracking practices, and third-party sharing using a custom NLP pipeline.",
+			"link":"https://github.com/ethanwalsh16/toscan",
+			"colour":"#000000",
+			"textcolour":"white",
+			"stack":"Python, spaCy, Flask, Next.js",
+			"github":"https://github.com/ethanwalsh16/toscan"
+		},
+		{
 			"title": "PianAI",
-			"description": "Creating a new way to learn the piano with computer vision and audio feedback (McMaster AI Society).",
+			"description": "Established a new way to teach piano by leveraging AI, providing real-time technique and audio feedback - featured by McMaster University's CTO.",
 			"link": "https://cto.mcmaster.ca/mcmaster-students-leverage-ai-to-bring-music-lessons-into-the-future/",
 			"colour":"#0039A6",
 			"textcolour":"white",
-			"stack":"Python, OpenCV, MediaPipe, Streamlit"
+			"stack":"Python, OpenCV, MediaPipe, Streamlit",
+			"github":"https://github.com/McMasterAI/pianAI"
 		},
 		{
 			"title": "Vibraphone Coding",
-			"description": "Parsing vibraphone notes into code.",
+			"description": "Real-time translation of played vibraphone notes into computer keystrokes (See video demo above).",
 			"link":"https://www.linkedin.com/posts/activity-7315723929145286656-p2IJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADnYHGUBm5DI1ORaM8e8JsPq-IY672kfNio",
 			"colour":"#FFFFFF",
 			"textcolour":"black",
-			"stack":"Python, Librosa"
+			"stack":"Python, Librosa",
+			"github":""
 		},
 		{
 			"title": "Praxi",
-			"description": "Improving online language learning tools using AI and live conversation.",
+			"description": "Language learning platform featuring AI-based training and live conversation, built with WebSockets and Django.",
 			"link": "https://github.com/colinchambachan/praxi",
 			"colour":"#FCCC0A",
 			"textcolour":"black",
-			"stack":"Python, Django, HTML, TailwindCSS, Web Sockets"
-	  	},
-		{
-			"title": "PGA Predictor",
-			"description": "Data Science project to predict winners on the PGA Tour.",
-			"link":"https://github.com/ethanwalsh16/pga-predictor",
-			"colour":"#FCCC0A",
-			"textcolour":"black",
-			"stack":"Python, Jupyter Notebook"
-		},
-		{
-			"title": "Personal Portfolio",
-			"description": "Showcasing projects and experience.",
-			"link": "https://ethanwalsh.ca",
-			"colour":"#EE352E",
-			"textcolour":"white",
-			"stack":"TypeScript, React.JS, TailwindCSS"
+			"stack":"Python, Django, HTML, TailwindCSS, WebSockets",
+			"github":"https://github.com/colinchambachan/praxi"
 	  	}
 	],
 	"experiences": [
 		{
-			"title": "Software Development Intern",
+			"title": "Software Engineering Intern",
 			"company": "Royal Bank of Canada - (Fall 2025)",
-			"oneliner": "Incoming intern on the real-time payments cloud team.",
+			"oneliner": "Built key transaction validation components for a new enterprise-wide real-time payments engine using Java and Spring Boot microservices.",
+			"link": "https://rbc.com/",
 			"colour":"#000000",
 			"textcolour":"white",
-			"stack":"TBD"
+			"stack":"Java, Spring Boot, MongoDB, Camunda"
 		},	
 		{
-			"title": "Software Development Intern",
+			"title": "Software Engineering Intern",
 			"company": "Royal Bank of Canada - (Summer 2025)",
-			"oneliner": "Developed a patent pending software product that won the technical distinction award as part of a 4-student team in RBC's Amplify program, where interns take on new challenges in the bank.",
+			"oneliner": "Developed a patent pending wire payment routing engine, winning $20K Technical Distinction Award in RBC's Amplify program",
 			"link": "https://jobs.rbc.com/ca/en/amplify",
 			"colour":"#000000",
 			"textcolour":"white",
-			"stack":"Spring Boot, Java, Next.JS, TypeScript, PostgreSQL"
+			"stack":"Java, Spring Boot, Next.js, TypeScript, PostgreSQL"
 		},
 		{
 			"title": "Data Analytics Intern",
 			"company": "Bruce Power - (Summer 2024)",
-			"oneliner": "Created apps and automations to provide key insights on fifty thousand work orders and requests.",
+			"oneliner": "Autmoated analysis on 50,000+ work orders and requests, providing key insights to speed up maintenance schedules.",
 			"link": "https://www.brucepower.com",
 			"colour":"#0039A6",
 			"textcolour":"white",
 			"stack":"SQL, Databricks, Power BI, Power Automate"
 		},
 		{
-			"title": "Project Lead",
-			"company": "McMaster Artificial Intelligence Society - (2023-2024)",
-			"oneliner": "Led the development of an OpenCV project to teach the fundamentals of piano.",
-			"link": "https://www.linkedin.com/company/mcmasterai/",
-			"colour":"#0039A6",
-			"textcolour":"white",
-			"stack":"Python, OpenCV, MediaPipe, Streamlit"
-		},
-		{
 			"title": "Software Engineering Intern",
 			"company": "Fermi Solutions - (Summer 2023)",
-			"oneliner": "Developed a full-stack application for storage management in nuclear energy facilities.",
+			"oneliner": "Developed a full-stack application for storage management in nuclear energy facilities, reducing approval timeline by 50%.",
 			"link": "https://www.fermisolutions.com/",
 			"colour":"#FCCC0A",
 			"textcolour":"black",
-			"stack":"React.JS, TypeScript, FastAPI, MongoDB, Node.JS"
+			"stack":"React.js, TypeScript, FastAPI, MongoDB, Node.js"
 		}
 	]
 }

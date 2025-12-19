@@ -13,9 +13,10 @@ function App() {
 	  <div className="md:pb-16 pb-8 md:ml-4 ml-1">
 			<p className="font-serif text-slate-900 pb-2"><i>The stack:</i></p>
 			<ul className="font-serif text-slate-900 text-md space-y-1">
-				<li>Languages: Java, Python, C/C++, SQL, JavaScript, HTML/CSS, MATLAB</li>
-				<li>Frameworks & Libraries: React.js, Next.js, Node.js, FastAPI, MongoDB, OpenCV, JUnit</li>
-				<li>Tools: Git, Unix/Linux, Figma, Docker, Firebase, Sonarqube</li>
+				<li>Languages: Java, Python, TypeScript, JavaScript, SQL, C, HTML, CSS</li>
+				<li>Frameworks & Libraries: Spring Boot, React.js, Next.js, Node.js, FastAPI, Flask, JUnit, Mockito, Cucumber</li>
+				<li>Tools: Docker, Kubernetes, Camunda, Sonarqube, Google Cloud Platform, OpenShift Cloud Platform, PostgreSQL,
+MongoDB, Git, GitHub Actions, Linux, Jira, Figma, Firebase</li>
 			</ul>
 		</div>
       </main>
