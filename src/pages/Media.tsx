@@ -10,19 +10,23 @@ function App() {
     <Navbar />
 		<div className="pt-2 md:ml-16 ml-3 mr-2">
 	  <div className="space-y-4 md:ml-4 pb-3">
-			<p className="font-serif text-slate-900 text-2xl">Reading:</p>
+			<p className="font-serif text-slate-900 text-2xl">Reading & Already Read:</p>
 
 				<p className="font-serif text-slate-900 ml-2">Digital Minimalism by Cal Newport</p>
 
 					<p className="font-serif text-slate-900 ml-4 text-sm">An important read from a Georgetown computer science professor. Stories and strategies to maintain tech as a tool and control it. Highly recommend to anyone pursuing a career in software.</p>
 
+				<p className="font-serif text-slate-900 ml-2">The Fairfax Way: Inside Prem Watsa's Secret to Lasting Success by David Thomas</p>
+
+					<p className="font-serif text-slate-900 ml-4 text-sm">A summary of Prem Watsa's impressive rise and Fairfax Financial Holdings. Great insights into value investing and one of Canada's most interesting companies.</p>
+
 				<p className="font-serif text-slate-900 ml-2">Thinking Fast and Slow by Daniel Kahneman</p>
 
-					<p className="font-serif text-slate-900 ml-4 text-sm">Although reading is still in progress, the work of Kahneman and his collaborator Amos Tversky on intuition and system 1 vs. system 2 in the mind is captivating, and I look forward to learning more.</p>
+					<p className="font-serif text-slate-900 ml-4 text-sm">Although reading is still in progress, the work of Kahneman and his collaborator Amos Tversky on intuition and 'system 1' vs. 'system 2' in the mind is captivating, and I look forward to learning more.</p>
 
-				<p className="font-serif text-slate-900 ml-2">Conversations by Steve Reich</p>
+				<p className="font-serif text-slate-900 ml-2">Flash Boys: A Wall Street Revolt by Michael Lewis</p>
 
-					<p className="font-serif text-slate-900 ml-4 text-sm">One of the greatest musicians in the field of minimalism, Reich speaks with various other musical giants. A great deal of important knowledge and history on 20th century music.</p>
+					<p className="font-serif text-slate-900 ml-4 text-sm">A story about a stock trader, Brad Katsuyama, and his team as they learned about and subsequently took on high-frequency trading on Wall Street. An especially cool read for me when I was an RBC intern, since Katsuyama himself used to work for the bank.</p>
 				
 				<p className="font-serif text-slate-900 ml-2">Range by David Epstein</p>
 
@@ -37,9 +41,9 @@ function App() {
 
 					<p className="font-serif text-slate-900 ml-4 text-sm">Often featured on Emmet's Place, Bartley is one of the greatest living jazz saxophonists, if not the greatest. Each solo brings energy, variety, and immense technical skill. Recommended solos to watch come on After You've Gone, Yes or No, and Tea For Two. <a href="https://www.youtube.com/watch?v=984ksjle4YA&ab_channel=EmmetCohen" className="hover:underline" target="_blank"><i>more</i></a></p>
 
-				<p className="font-serif text-slate-900 ml-2">Soundtracks of Michael Giacchino</p>
+				<p className="font-serif text-slate-900 ml-2">Ludwig Göransson</p>
 
-					<p className="font-serif text-slate-900 ml-4 text-sm">A lot of nostalgia comes from Giacchino's work, as he scored many childhood favourites: The Incredibles, Up, Ratatouille, Inside Out, as well as recent accomplishments like The Batman. <a href="https://open.spotify.com/playlist/37i9dQZF1DZ06evO2xeZDW?si=b7d31ec453b64ac8" className="hover:underline" target="_blank"><i>more</i></a></p>
+					<p className="font-serif text-slate-900 ml-4 text-sm">Black Panther, Sinners, and Oppenheimer are among his best soundtracks, along with being a close collaborator of Donald Glover on many of his albums.</p>
 
 			<p className="font-serif text-slate-900 text-2xl">Seeing:</p>
 
