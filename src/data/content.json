@@ -57,6 +57,14 @@
 	],
 	"experiences": [
 		{
+			"title": "Engineering Intern",
+			"company": "Bruce Power - (Summer 2026)",
+			"oneliner": "Cyber & Digital Engineering Team at Canada's largest nuclear power facility - in-progress.",
+			"link": "https://www.brucepower.com/",
+			"colour":"#000000",
+			"stack":"SQL, Databricks, Microsoft Power Platform"
+		},	
+		{
 			"title": "Software Engineering Intern",
 			"company": "Royal Bank of Canada Capital Markets - (Winter 2026)",
 			"oneliner": "Created new AI-focused POCs and deployed internal tools to monitor data lineage for RBC Capital Markets.",
